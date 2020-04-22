@@ -1,0 +1,2 @@
+# MachineLearning-FromScratch
+This repository contains a set of machine learning algorithms (classification and clustering) implemented from scratch without help of high level libraries such as Sklearn or even Pandas. In these algorithms, I've tried to use the vectorized operations of Numpy to make the computations more efficient. These algorithms are the result of my Tutoring classes with my students from university of Harvard, UCLA, ... .
