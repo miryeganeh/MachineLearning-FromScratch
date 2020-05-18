@@ -15,5 +15,16 @@ This repository contains a set of prjects in Python and Java which are the resul
     In this project me and a M.Sc. Student from UCIrvine implemented a VideoStore Manager program in with we practiced advance concepts of object-oriented programming such as polymorphism, MVC design and inheritence and data structures such as singly linked list, doubly linked list, Binary Search Tree (BST) and AVL. 
   
   
+  - #### KNN: 
+    In this project me and a M.Sc. Student from Oregonstate implemented K-Nearest Neighbors algorithm to classify a dataset of people to predict the salary of people. 
+  
+  - #### Perceptron: 
+    In this project me and a M.Sc. Student from Oregonstate implemented Perceptron algorithm to classify a dataset of people to predict the salary of people. 
+    
+  - #### LogisticRegression: 
+    In this project me and a M.Sc. Student from Oregonstate implemented Logistic Regression algorithm predict the sale price of houses. 
+    
+    
+      
   
 
