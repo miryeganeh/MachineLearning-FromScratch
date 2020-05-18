@@ -1,1 +1,1 @@
-<img src="swingy-ann.pdf">
+<img src="swingy.png">
